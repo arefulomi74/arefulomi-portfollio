@@ -191,4 +191,53 @@ main{
     font-weight: 400;
     line-height: 28px; 
 }
+/*resume style*/
+.resume-head{
+    color: #181818;
+    text-align:center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-title{
+    color: #474747;
+     font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    }
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.resume-item-title2{
+
+    color: #757575;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal
+}
+.resume-item-description{
+    color:#757575;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.resume-container hr{
+    margin: 30px;
+}
+.download-cv{
+    text-align: center;
+}
    
